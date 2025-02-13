@@ -8,10 +8,7 @@ Backend: MySQL (Database)
 Features
 
 Event Booking & Customization – Clients can personalize their events by selecting:
-   Event Type (Wedding, Birthday, Anniversary, etc.)
-   Cuisines & Catering Options
-   Costumes & Theme Selection
-   Accommodation & Venue Preferences
+Event Type (Wedding, Birthday, Anniversary, etc.), Cuisines & Catering Options, Costumes & Theme Selection, Accommodation & Venue Preferences
 
 User-Friendly Interface – Built with Java Swing, offering an interactive and intuitive UI.
 
