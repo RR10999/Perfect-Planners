@@ -5,14 +5,16 @@ Tech Stack
 Frontend: Java Swing (GUI)
 Backend: MySQL (Database)
 
-✅ Event Booking & Customization – Clients can personalize their events by selecting:
-   📌 Event Type (Wedding, Birthday, Anniversary, etc.)
-   📌 Cuisines & Catering Options
-   📌 Costumes & Theme Selection
-   📌 Accommodation & Venue Preferences
+Features
 
-✅ User-Friendly Interface – Built with Java Swing, offering an interactive and intuitive UI.
+Event Booking & Customization – Clients can personalize their events by selecting:
+   Event Type (Wedding, Birthday, Anniversary, etc.)
+   Cuisines & Catering Options
+   Costumes & Theme Selection
+   Accommodation & Venue Preferences
 
-✅ Database Management – Uses MySQL to efficiently store and manage event details.
+User-Friendly Interface – Built with Java Swing, offering an interactive and intuitive UI.
 
-✅ Seamless Integration – Ensures smooth coordination between event planning modules and
+Database Management – Uses MySQL to efficiently store and manage event details.
+
+Seamless Integration – Ensures smooth coordination between event planning modules and
